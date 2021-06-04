@@ -17,6 +17,6 @@ else
 fi
 # Commit code
 git add .
-git commit -m "Task 2 - part 1 completed"
+git commit -m "Task 2 - part 1 completed and tested"
 git push origin master
 git status
