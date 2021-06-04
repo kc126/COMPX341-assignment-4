@@ -15,6 +15,8 @@ else
   echo "FAIL"
   exit 2
 fi
+# Testing
+npm run test
 # Commit code
 git add .
 git commit -m "Task 2 - part 2 completed"
