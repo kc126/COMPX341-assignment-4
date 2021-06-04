@@ -11,6 +11,6 @@ else
 fi
 # Commit code
 git add .
-git commit -m "Task 1 - inital code and run - completed"
+git commit -m "Task 1 - inital code and run - completed and tested"
 git push origin master
 git status
