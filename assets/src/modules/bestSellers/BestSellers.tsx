@@ -51,7 +51,7 @@ export default class BestSellers extends React.Component<BestSellersProps, BestS
             <div className="container-category">
               <h3>Top 20 best sellers</h3>
             </div>
-            {this.state.isLoading ? <div className="loader" /> :
+            {this.stae.isLoading ? <div className="loader" /> :
               this.state.books.slice(0,20).map(book => <BestSellerProductRow bookId={book.bookId} key={book.bookId} />
             )}  
           </div>
