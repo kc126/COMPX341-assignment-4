@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import { API } from 'aws-amplify';
 import React from 'react';
 import { FriendThumb } from './FriendThumb';

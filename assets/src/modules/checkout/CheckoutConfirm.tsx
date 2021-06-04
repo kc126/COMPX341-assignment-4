@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import React, { Component } from "react";
 import { Redirect } from "react-router";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";

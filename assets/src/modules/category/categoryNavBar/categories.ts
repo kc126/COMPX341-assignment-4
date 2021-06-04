@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",

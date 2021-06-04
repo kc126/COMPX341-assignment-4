@@ -1,4 +1,10 @@
 #!/bin/bash
+# Checks that the code has the correct documentation
+if [ $(python documentationCheck.py) = 0 ]; then
+  echo "Files do not have the correct documentation"
+  exit 2
+fi
+echo "Files have the correct documentation"
 # Run and build the code
 npm install
 npm run build
@@ -11,6 +17,6 @@ else
 fi
 # Commit code
 git add .
-git commit -m "Task 1 - inital code and run - completed and tested"
+git commit -m "Task 2 - part 1 completed"
 git push origin master
 git status

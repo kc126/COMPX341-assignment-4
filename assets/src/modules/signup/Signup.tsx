@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import { Auth } from "aws-amplify";
 import React from "react";
 import { Redirect } from 'react-router';

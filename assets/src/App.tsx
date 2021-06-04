@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import { Auth } from "aws-amplify";
 import React, { Component, Fragment } from "react";
 import { LinkContainer } from "react-router-bootstrap";

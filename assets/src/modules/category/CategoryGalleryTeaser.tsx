@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import React from "react";
 import "../../common/styles/gallery.css";
 import { LinkContainer } from "react-router-bootstrap";

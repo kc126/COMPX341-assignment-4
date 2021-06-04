@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import React, { Component } from "react";
 import screenshot from "../../images/screenshot.png";
 import yourpastorders from "../../images/yourpastorders.png";

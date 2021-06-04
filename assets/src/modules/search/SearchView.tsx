@@ -1,3 +1,5 @@
+// Name: Kyle Cree
+// Id: 1505970
 import React, { Component } from "react";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
 import { SearchBar } from "./searchBar/SearchBar";
